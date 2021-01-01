@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularObservables"
+    }
+  },
+  "defaultProject": "angularObservables",
+  "cli": {
+    "analytics": false
+  }
 }
